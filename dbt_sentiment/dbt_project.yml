@@ -1,0 +1,12 @@
+﻿name: 'sentiment_analysis'
+version: '1.0.0'
+config-version: 2
+
+profile: 'sentiment_analysis'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+
+models:
+  sentiment_analysis:
+    +materialized: view

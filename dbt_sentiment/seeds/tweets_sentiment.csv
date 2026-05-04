@@ -1,0 +1,9 @@
+date,produit,score_sentiment,sentiment,mentions
+2026-05-04T01:30:00Z,Baskets RunX,0.83,positif,1200
+2026-05-04T01:35:00Z,T-shirt Classic,-1.0,negatif,300
+2026-05-04T01:40:00Z,Baskets RunX,0.62,positif,800
+2026-05-04T01:45:00Z,SAV,-0.49,negatif,150
+2026-05-04T01:50:00Z,Baskets RunX,1.0,positif,2000
+2026-05-04T01:55:00Z,T-shirt Classic,-1.0,negatif,400
+2026-05-04T02:00:00Z,Baskets RunX,0.83,positif,900
+2026-05-04T02:05:00Z,T-shirt Classic,0.0,neutre,200

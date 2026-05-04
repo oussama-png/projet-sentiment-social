@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+*.duckdb
+dbt_sentiment/target/
+dbt_sentiment/logs/
+.env
