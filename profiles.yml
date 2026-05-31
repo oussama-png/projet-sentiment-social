@@ -1,0 +1,6 @@
+﻿sentiment_analysis:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: sentiment.duckdb

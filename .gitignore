@@ -1,6 +1,12 @@
-﻿__pycache__/
+__pycache__/
 *.pyc
 *.duckdb
+*.hprof
 dbt_sentiment/target/
 dbt_sentiment/logs/
+logs/
 .env
+.user.yml
+projet-sentiment-social/
+# Gros fichiers CSV (>100MB)
+french_tweets.csv
